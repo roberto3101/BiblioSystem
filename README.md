@@ -5,3 +5,6 @@ ECLIPSE
 Tomcat 9.0
 JDK 1.8
 Javax.mail
+
+
+Principal folder: Tantan
